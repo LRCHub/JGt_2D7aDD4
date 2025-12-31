@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "One More Love!",
+  "base_artist": "Goodbye for First kiss",
+  "createdAt": "2025-12-31T15:42:14.027873Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "One More Love Song",
+      "artist": "Mac DeMarco",
+      "has_synced": true,
+      "path": "select/01_One_More_Love_Song_Mac_DeMarco.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "One More Love",
+      "artist": "Imagination",
+      "has_synced": true,
+      "path": "select/02_One_More_Love_Imagination.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "One More Love Tonight",
+      "artist": "Masayuki Suzuki",
+      "has_synced": false,
+      "path": "select/03_One_More_Love_Tonight_Masayuki_Suzuki.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "One More Love Song (Instrumental)",
+      "artist": "Mac DeMarco",
+      "has_synced": false,
+      "path": "select/04_One_More_Love_Song_(Instrumental)_Mac_DeMarco.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "One More Love Song",
+      "artist": "Leon Russell",
+      "has_synced": true,
+      "path": "select/05_One_More_Love_Song_Leon_Russell.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "One More Love",
+      "artist": "Imagination",
+      "has_synced": true,
+      "path": "select/06_One_More_Love_Imagination.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "One More Love Song",
+      "artist": "Mac DeMarco",
+      "has_synced": true,
+      "path": "select/07_One_More_Love_Song_Mac_DeMarco.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "One More Love Song",
+      "artist": "Leon Russell",
+      "has_synced": false,
+      "path": "select/08_One_More_Love_Song_Leon_Russell.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "One More Love",
+      "artist": "Imagination",
+      "has_synced": true,
+      "path": "select/09_One_More_Love_Imagination.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "One More Love Song",
+      "artist": "Mac DeMarco",
+      "has_synced": true,
+      "path": "select/10_One_More_Love_Song_Mac_DeMarco.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "One More Love Song (Live)",
+      "artist": "Mac DeMarco",
+      "has_synced": true,
+      "path": "select/11_One_More_Love_Song_(Live)_Mac_DeMarco.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "One More Love",
+      "artist": "Imagination",
+      "has_synced": false,
+      "path": "select/12_One_More_Love_Imagination.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "One More Love Song (Paused)",
+      "artist": "Mac DeMarco",
+      "has_synced": true,
+      "path": "select/13_One_More_Love_Song_(Paused)_Mac_DeMarco.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "One More Love!",
+      "artist": "Goodbye for First kiss",
+      "has_synced": false,
+      "path": "select/pl_01_One_More_Love!_Goodbye_for_First_kiss.txt"
+    }
+  ]
+}
